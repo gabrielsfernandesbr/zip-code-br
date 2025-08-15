@@ -19,3 +19,5 @@ sudo chmod +x app.py
 ```
 sudo ./app.py
 ```
+
+## MIT License
