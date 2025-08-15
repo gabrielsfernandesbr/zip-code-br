@@ -1,7 +1,7 @@
 # Application with API for searching Brazilian postal codes.
 ## Application made in Python, CSS and HTML for improved postal code search in Brazil through a web interface.
 ___
-### Intrução Ubuntu/Debian:
+### Introduction Ubuntu/Debian:
 
 ### source code folder
 ```
